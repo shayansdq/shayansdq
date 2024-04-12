@@ -48,6 +48,6 @@ Outside the world of tech too, I enjoy pushing myself to develop new skills. My 
 ## 🔗 Links
 
 [![resume](https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=read-the-docs&logoColor=white)](https://firebasestorage.googleapis.com/v0/b/tapajyoti-bose.appspot.com/o/Tapajyoti%20Bose.pdf?alt=media&token=68b3f3e3-cf56-4666-b4fa-9897c80eec2e)
-[![linked-in](https://img.shields.io/badge/Linked_In-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)]([https://www.linkedin.com/in/tapajyoti-bose/](https://www.linkedin.com/in/shayan-sadeghi-3b556b205/))
+[![linked-in](https://img.shields.io/badge/Linked_In-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)]([[https://www.linkedin.com/in/tapajyoti-bose/](https://www.linkedin.com/in/shayan-sadeghi-3b556b205/)](https://www.linkedin.com/in/shayan-sadeghi-3b556b205/))
 [![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/shayansdq)
 [![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:https://github.com/shayansadeghi178)
